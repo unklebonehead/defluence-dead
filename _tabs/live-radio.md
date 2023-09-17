@@ -13,7 +13,3 @@ order: 4
 
 #### Enjoythe stream!
 You must push play to start listening, auto play is disabled. There will eventually be a live chat room here below the video. Live chat below is only monitored when station is live.
-
-<iframe src="https://app.tpstreams.com/live-chat/AFYtqB7MnAp/" style="border:0;max-width:100%;position:relative;top:0;left:0;height:100%;width:100%;"
-  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope picture-in-picture" allowfullscreen="" frameborder="0">
-</iframe>
